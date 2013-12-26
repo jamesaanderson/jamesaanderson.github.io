@@ -1,8 +1,10 @@
 body {
   background-color: #ecf0f1;
   font-family: "Cabin", sans-serif;
-  margin: 10% 20%;
-  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  max-width: 50%;
   color: #2c3e50;
   font-size: 30px;
 }
