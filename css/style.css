@@ -3,10 +3,11 @@ body {
   font-family: "Cabin", sans-serif;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 50px;
+  margin-top: 70px;
   max-width: 50%;
   color: #2c3e50;
   font-size: 30px;
+  text-align: justify;
 }
 
 a {
