@@ -16,3 +16,33 @@ a {
 }
 
 .icon-2x { padding-right: 20px; }
+
+.socials {
+  font-size: 22px;
+  text-align: center;
+}
+
+.socials ul {
+  padding: 0;
+  overflow: hidden;
+  width: 100%;
+  display: table;
+}
+
+.socials li {
+  display: inline-block;
+  width: 20%;
+}
+
+.socials i {
+  display: block;
+  width: 100%;
+}
+
+@media (max-width: 650px) {
+  body {
+    text-align: left;
+    font-size: 22px;
+    max-width: 75%;
+  }
+}
