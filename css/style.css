@@ -1,18 +1,16 @@
+@font-face { font-family: garamond; src: url('../GaramondNo8-Regular.ttf'); }
+@font-face { font-family: garamond; src: url('../GaramondNo8-Bold.ttf'); font-weight: bold; }
+@font-face { font-family: garamond; src: url('../GaramondNo8-Italic.ttf'); font-style: italic; }
+
 body {
-  background-color: #ecf0f1;
-  font-family: "Cabin", sans-serif;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 70px;
-  max-width: 50%;
-  color: #2c3e50;
-  font-size: 30px;
+  font-family: garamond;
   text-align: justify;
+  width: 58em;
+  padding: 1em;
 }
 
 a {
   text-decoration: none;
-  color: #2c3e50;
 }
 
 .icon-2x { padding-right: 20px; }
